@@ -1,8 +1,8 @@
 # TON crypto primitives
 
-[![Version npm](https://img.shields.io/npm/v/ton-crypto-primitives.svg?logo=npm)](https://www.npmjs.com/package/ton-crypto-primitives)
-
 Cross-platform crypto primitives for building apps for TON blockchain. For internal imlementation of `ton-crypto`.
+
+[![Version npm](https://img.shields.io/npm/v/ton-crypto-primitives.svg?logo=npm)](https://www.npmjs.com/package/ton-crypto-primitives)
 
 ## Features
 
