@@ -1,23 +1,23 @@
 # TON crypto primitives
 
-Cross-platform crypto primitives for building apps for TON blockchain. For internal imlementation of `ton-crypto`.
+Cross-platform crypto primitives for building apps for TON blockchain. For internal implementation of `@ton/crypto`.
 
-[![Version npm](https://img.shields.io/npm/v/ton-crypto-primitives.svg?logo=npm)](https://www.npmjs.com/package/ton-crypto-primitives)
+[![Version npm](https://img.shields.io/npm/v/@ton/crypto-primitives.svg?logo=npm)](https://www.npmjs.com/package/@ton/crypto-primitives)
 
 ## Features
 
 - 🦺 Crypto primitives: SHA-256, SHA-512, PBKDF2-SHA-256, HMAC-SHA-512
 - 🚀 Promise-based API
-- 🏎 Built on top of Buffer (polifil required in browsers)
+- 🏎 Built on top of Buffer (polyfill required in browsers)
 - 🍰 No reimplemented crypto
 
 ## Install
 
 ```bash
-yarn add ton-crypto-primitives buffer
+yarn add @ton/crypto-primitives buffer
 ```
 
-#### Browser polifil
+#### Browser polyfill
 
 ```js
 // Add before using library

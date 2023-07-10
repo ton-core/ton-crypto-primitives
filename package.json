@@ -1,7 +1,7 @@
 {
-  "name": "ton-crypto-primitives",
+  "name": "@ton/crypto-primitives",
   "version": "2.0.0",
-  "repository": "https://github.com/tonwhales/ton-crypto-primitives.git",
+  "repository": "https://github.com/ton-org/ton-crypto-primitives.git",
   "author": "Whales Corp. <developers@whalescorp.com>",
   "license": "MIT",
   "main": "./dist/node.js",
