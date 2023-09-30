@@ -2,7 +2,7 @@
 
 ## 🚨 Repository Deprecated and Moved! 🚨
 
-**This repository has been deprecated and is no longer actively maintained.** We have moved our project to a new repository, which you can find here: [ton-org/ton-crypto-primitives](https://github.com/ton-org/ton-crypto-primitives). The new NPM reposity is available here: [@ton/crypto-primitives](https://www.npmjs.com/package/@ton/crypto-primitives)
+**This repository has been deprecated and is no longer actively maintained.** We have moved our project to a new repository, which you can find here: [ton-org/ton-crypto-primitives](https://github.com/ton-org/ton-crypto-primitives). The new NPM package is available here: [@ton/crypto-primitives](https://www.npmjs.com/package/@ton/crypto-primitives)
 
 Please make sure to update your bookmarks and star the new repository to stay up-to-date with the latest developments and updates. This repository will be archived and eventually removed.
 
